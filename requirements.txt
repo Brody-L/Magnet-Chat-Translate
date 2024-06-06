@@ -1,0 +1,3 @@
+google-cloud-translate
+beautifulsoup4
+pandas
